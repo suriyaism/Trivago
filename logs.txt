@@ -1,0 +1,2 @@
+16/08/2020 18:07:56 ---- INFO ------ Email used to subscribe the newsletter is abc222@abc.com
+16/08/2020 18:08:02 ---- INFO ------Successfully verified
