@@ -1,6 +1,6 @@
-# AUTOHERO
+# TRIVAGO
 
- This project is intended for Automation in Selenium for AUTOHERO Task.
+ This project is intended for Automation in Selenium for TRIVAGO Task.
  
  The TECH STACK used are
  
@@ -24,7 +24,7 @@
     
     `pip install -r requirements.txt`
 
-     `behave --tags @search_page` (Basic Scenario)
+     `behave --tags @subscribe` (Basic Scenario)
      
 6. After running the above commands, logs can be seen under ./logs.txt which is created dynamically from the project on the run time.
      
